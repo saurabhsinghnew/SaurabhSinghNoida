@@ -1,0 +1,67 @@
+﻿@model IEnumerable<EFCoreCRUD.Employee>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th scope="col">
+                
+                @Html.DisplayName("Image") 
+            </th>
+            <th scope="col">
+                @Html.DisplayNameFor(model => model.EmpId)
+            </th>
+            <th scope="col">
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th scope="col">
+                @Html.DisplayNameFor(model => model.Address)
+            </th>
+            <th scope="col">
+                @Html.DisplayNameFor(model => model.ImagePath)
+            </th>
+            <th scope="col">
+                @Html.DisplayNameFor(model => model.DeptId)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td  scope="row">
+                    <img src="~/@Url.Content(item.ImagePath)" alt="Image" style="width:50px; height:50px;">
+                </td>
+                <td  scope="row">
+                    @Html.DisplayFor(modelItem => item.EmpId)
+                </td>
+                <td  scope="row">
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td  scope="row">
+                    @Html.DisplayFor(modelItem => item.Address)
+                </td>
+                <td  scope="row">
+                    @Html.DisplayFor(modelItem => item.ImagePath)
+                </td>
+                <td  scope="row"> 
+                    @Html.DisplayFor(modelItem => item.DeptId)
+                </td>
+                <td  scope="row">
+                    @Html.ActionLink("Edit", "Edit", new { id = item.EmpId }) |
+
+                    @Html.ActionLink("Delete", "Delete", new { id = item.EmpId }, new { onclick = "return confirm('Are you sure your want to delete the record?')" })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

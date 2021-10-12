@@ -1,0 +1,15 @@
+C:\Users\honey\source\repos\EFCoreCRUD\EFCoreCRUD\obj\Debug\net5.0\EFCoreCRUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\honey\source\repos\EFCoreCRUD\EFCoreCRUD\obj\Debug\net5.0\EFCoreCRUD.AssemblyInfoInputs.cache
+C:\Users\honey\source\repos\EFCoreCRUD\EFCoreCRUD\obj\Debug\net5.0\EFCoreCRUD.AssemblyInfo.cs
+C:\Users\honey\source\repos\EFCoreCRUD\EFCoreCRUD\obj\Debug\net5.0\EFCoreCRUD.csproj.CoreCompileInputs.cache
+C:\Users\honey\source\repos\EFCoreCRUD\EFCoreCRUD\bin\Debug\net5.0\EFCoreCRUD.deps.json
+C:\Users\honey\source\repos\EFCoreCRUD\EFCoreCRUD\bin\Debug\net5.0\EFCoreCRUD.dll
+C:\Users\honey\source\repos\EFCoreCRUD\EFCoreCRUD\bin\Debug\net5.0\ref\EFCoreCRUD.dll
+C:\Users\honey\source\repos\EFCoreCRUD\EFCoreCRUD\bin\Debug\net5.0\EFCoreCRUD.pdb
+C:\Users\honey\source\repos\EFCoreCRUD\EFCoreCRUD\obj\Debug\net5.0\EFCoreCRUD.dll
+C:\Users\honey\source\repos\EFCoreCRUD\EFCoreCRUD\obj\Debug\net5.0\ref\EFCoreCRUD.dll
+C:\Users\honey\source\repos\EFCoreCRUD\EFCoreCRUD\obj\Debug\net5.0\EFCoreCRUD.pdb
+C:\Users\honey\source\repos\EFCoreCRUD\EFCoreCRUD\bin\Debug\net5.0\EFCoreCRUD.runtimeconfig.json
+C:\Users\honey\source\repos\EFCoreCRUD\EFCoreCRUD\bin\Debug\net5.0\EFCoreCRUD.runtimeconfig.dev.json
+C:\Users\honey\source\repos\EFCoreCRUD\EFCoreCRUD\obj\Debug\net5.0\EFCoreCRUD.genruntimeconfig.cache
+C:\Users\honey\source\repos\EFCoreCRUD\EFCoreCRUD\obj\Debug\net5.0\EFCoreCRUD.csproj.AssemblyReference.cache
