@@ -1,0 +1,12 @@
+C:\Users\honey\source\repos\EFCoreDb\DbFirst\bin\Debug\net5.0\DbFirst.deps.json
+C:\Users\honey\source\repos\EFCoreDb\DbFirst\bin\Debug\net5.0\DbFirst.dll
+C:\Users\honey\source\repos\EFCoreDb\DbFirst\bin\Debug\net5.0\ref\DbFirst.dll
+C:\Users\honey\source\repos\EFCoreDb\DbFirst\bin\Debug\net5.0\DbFirst.pdb
+C:\Users\honey\source\repos\EFCoreDb\DbFirst\obj\Debug\net5.0\DbFirst.csproj.AssemblyReference.cache
+C:\Users\honey\source\repos\EFCoreDb\DbFirst\obj\Debug\net5.0\DbFirst.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\honey\source\repos\EFCoreDb\DbFirst\obj\Debug\net5.0\DbFirst.AssemblyInfoInputs.cache
+C:\Users\honey\source\repos\EFCoreDb\DbFirst\obj\Debug\net5.0\DbFirst.AssemblyInfo.cs
+C:\Users\honey\source\repos\EFCoreDb\DbFirst\obj\Debug\net5.0\DbFirst.csproj.CoreCompileInputs.cache
+C:\Users\honey\source\repos\EFCoreDb\DbFirst\obj\Debug\net5.0\DbFirst.dll
+C:\Users\honey\source\repos\EFCoreDb\DbFirst\obj\Debug\net5.0\ref\DbFirst.dll
+C:\Users\honey\source\repos\EFCoreDb\DbFirst\obj\Debug\net5.0\DbFirst.pdb

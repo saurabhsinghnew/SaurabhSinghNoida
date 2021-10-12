@@ -1,0 +1,14 @@
+C:\Users\honey\source\repos\EFCoreDb\EFCoreDb\bin\Debug\net5.0\EFCoreDb.deps.json
+C:\Users\honey\source\repos\EFCoreDb\EFCoreDb\bin\Debug\net5.0\EFCoreDb.runtimeconfig.json
+C:\Users\honey\source\repos\EFCoreDb\EFCoreDb\bin\Debug\net5.0\EFCoreDb.runtimeconfig.dev.json
+C:\Users\honey\source\repos\EFCoreDb\EFCoreDb\bin\Debug\net5.0\EFCoreDb.dll
+C:\Users\honey\source\repos\EFCoreDb\EFCoreDb\bin\Debug\net5.0\ref\EFCoreDb.dll
+C:\Users\honey\source\repos\EFCoreDb\EFCoreDb\bin\Debug\net5.0\EFCoreDb.pdb
+C:\Users\honey\source\repos\EFCoreDb\EFCoreDb\obj\Debug\net5.0\EFCoreDb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\honey\source\repos\EFCoreDb\EFCoreDb\obj\Debug\net5.0\EFCoreDb.AssemblyInfoInputs.cache
+C:\Users\honey\source\repos\EFCoreDb\EFCoreDb\obj\Debug\net5.0\EFCoreDb.AssemblyInfo.cs
+C:\Users\honey\source\repos\EFCoreDb\EFCoreDb\obj\Debug\net5.0\EFCoreDb.csproj.CoreCompileInputs.cache
+C:\Users\honey\source\repos\EFCoreDb\EFCoreDb\obj\Debug\net5.0\EFCoreDb.dll
+C:\Users\honey\source\repos\EFCoreDb\EFCoreDb\obj\Debug\net5.0\ref\EFCoreDb.dll
+C:\Users\honey\source\repos\EFCoreDb\EFCoreDb\obj\Debug\net5.0\EFCoreDb.pdb
+C:\Users\honey\source\repos\EFCoreDb\EFCoreDb\obj\Debug\net5.0\EFCoreDb.genruntimeconfig.cache
